@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Raí Siqueira, and i'm 26 years old. Currently working at [@justapagamentos](https://github.com/justapagamentos) as Software Engineer and tech lead.
+My name is Raí Siqueira, and i'm 27 years old. Currently working at [@justapagamentos](https://github.com/justapagamentos) as Software Engineer and tech lead.
 
 My tech stack:
 
