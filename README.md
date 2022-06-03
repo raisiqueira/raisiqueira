@@ -12,4 +12,4 @@ My name is Raí Siqueira, and i'm 28 years old. Currently working at [@vintasoft
 
 ### Support me to help others developers to grow.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F81O05R)
+[GitHub](https://github.com/sponsors/raisiqueira/) | [ko-fi](https://ko-fi.com/F1F81O05R)
