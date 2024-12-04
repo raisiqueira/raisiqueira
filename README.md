@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Raí Siqueira, and i'm 29 years old. Currently working at [@vintasoftware](https://github.com/vintasoftware) as Senior Software Engineer. Apart from work, i try contributing to open-source projects on my free time. I am always learning something new.
+My name is Raí Siqueira, and i'm 31 years old. Currently working at [@vintasoftware](https://github.com/vintasoftware) as Senior Software Engineer. Apart from work, i try contributing to open-source projects on my free time. I am always learning something new.
 
 ---
 
